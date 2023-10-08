@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "cnuKbLx27keKln/AcUml//dJ3IGjgezzd9ENLVzN720=",
+  "Source": "UploadFile",
+  "BasePath": "_content/UploadFile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UploadFile\\wwwroot",
+      "Source": "UploadFile",
+      "ContentRoot": "E:\\DotNet\\API\\API\\API Projects\\UploadFile\\UploadFile\\UploadFile\\wwwroot\\",
+      "BasePath": "_content/UploadFile",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
